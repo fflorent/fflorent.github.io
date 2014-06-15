@@ -1,0 +1,7 @@
+strong, b {
+    font-weight: bold;
+}
+
+.post-content p {
+    text-align: justify;
+}

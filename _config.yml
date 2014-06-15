@@ -1,0 +1,14 @@
+# Site settings
+title: "Assertion failure"
+description: "Blog d'un contributeur de Firebug et Mozillien."
+baseurl: ""
+url: "http://fflorent.github.io"
+username: "fflorent"
+twitter: "floff01"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#Others
+timezone: Europe/Paris
